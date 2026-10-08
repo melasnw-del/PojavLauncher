@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/transparent">
+    <net.kdt.pojavlaunch.StarFieldView android:layout_width="match_parent" android:layout_height="match_parent" />
 
     <com.kdt.mcgui.mcAccountSpinner
         android:id="@+id/account_spinner"
